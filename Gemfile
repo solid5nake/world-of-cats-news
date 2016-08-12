@@ -33,6 +33,9 @@ gem 'jbuilder', '~> 2.5'
 # gem 'carrierwave' for uploading files
 gem 'carrierwave'
 
+# gem 'cloudinary' to store files on the cloud
+gem 'cloudinary'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
